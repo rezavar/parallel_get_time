@@ -1,0 +1,17 @@
+{
+  "name": "p_time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jalali-moment": "^3.3.11",
+    "playwright": "^1.49.1"
+  }
+}
